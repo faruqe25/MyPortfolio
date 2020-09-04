@@ -6,7 +6,11 @@ body {
   position: relative;
   background: transparent;
 }
+#particles-js{
+	background: red;
+	height: 100%
 
+}
 body::before {
   content: "";
   position: fixed;
